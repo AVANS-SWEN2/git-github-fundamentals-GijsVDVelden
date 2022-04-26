@@ -1,4 +1,5 @@
-Gijs van der Velden, GijsVDVelden
+Gijs van der Velden
+GijsVDVelden
 
 # :wave: The Basics of GitHub 
 
